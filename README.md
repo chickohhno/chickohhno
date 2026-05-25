@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=80&lines=KyawPhoneThu;chickohhno;KoKyat;Cloud+DevOps+Engineer)](https://git.io/typing-svg)
 
-🐔 **Cloud DevOps Engineer** | 🌏 Based in Bangkok, Thailand  
-☁️ AWS & Kubernetes guy · CI/CD · GitOps · Infrastructure · the chicken is always in the cluster  
-🎓 Pursuing MSc Computer Science @ Assumption University, Thailand
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2500&pause=800&color=AAAAAA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=30&lines=🐔+Cloud+DevOps+Engineer+%7C+🌏+Bangkok%2C+Thailand;☁️+AWS+%26+Kubernetes+%7C+CI%2FCD+%7C+GitOps+%7C+Infrastructure;🎓+MSc+Computer+Science+%40+Assumption+University%2C+Thailand;🐔+the+chicken+is+always+in+the+cluster)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,11 +12,30 @@
 
 ## 👾 About Me
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 - 🚀 Operating and supporting **AWS production workloads** — EKS, GitOps, CI/CD, Terraform, and everything in between
 - 🏢 Working within an **AWS Partner environment** — contributing to Cloud Operations Competency and Well-Architected Partner Program
 - 🌱 Currently exploring **AI Agents, workflow automations**, and platform engineering
 - 🎙️ **AWS Community Educator** — sharing cloud knowledge, mentoring juniors, and helping people crack AWS certs
 - 🐔 Yes, the username is about a chicken. No, I will not explain further.
+
+<br/>
+
+![Experience](https://img.shields.io/badge/3%2B_Years_Experience-000000?style=flat-square&logoColor=white)
+![Certs](https://img.shields.io/badge/9_Certifications-000000?style=flat-square&logoColor=white)
+![Projects](https://img.shields.io/badge/3_Production_Projects-000000?style=flat-square&logoColor=white)
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -100,7 +119,7 @@ Provisioned and maintained cloud infrastructure and container orchestration for 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyaw-phone-thu/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chickohhno)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](kyawphonethu.cloud@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyawphonethu.cloud@gmail.com)
 
 </div>
 
