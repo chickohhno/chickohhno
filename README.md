@@ -10,7 +10,9 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="28" height="28"/> About Me
+<img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="50" height="50"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="50" height="50"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/> <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="51" height="51"/>
+
+## About Me
 
 <table>
 <tr>
