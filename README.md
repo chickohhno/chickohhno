@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=80&lines=KyawPhoneThu;chickohhno;Cloud+DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=80&lines=KyawPhoneThu;chickohhno;KoKyat;Cloud+DevOps+Engineer)](https://git.io/typing-svg)
 
 🐔 **Cloud DevOps Engineer** | 🌏 Based in Bangkok, Thailand  
 ☁️ AWS & Kubernetes guy · CI/CD · GitOps · Infrastructure · the chicken is always in the cluster  
@@ -94,63 +94,13 @@ Provisioned and maintained cloud infrastructure and container orchestration for 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![chickohhno's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickohhno&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chickohhno&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=333333&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=chickohhno&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=333333)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/chickohhno/chickohhno/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> ⚙️ **Setup note:** To enable the snake animation, add this GitHub Actions workflow to your profile repo at `.github/workflows/snake.yml`:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: chickohhno
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chickohhno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyaw-phone-thu/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chickohhno)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](kyawphonethu.cloud@gmail.com)
 
 </div>
 
