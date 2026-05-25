@@ -20,7 +20,6 @@
 - 🏢 Working within an **AWS Partner environment** — contributing to Cloud Operations Competency and Well-Architected Partner Program
 - 🌱 Currently exploring **AI Agents, workflow automations**, and platform engineering
 - 🎙️ **AWS Community Educator** — sharing cloud knowledge, mentoring juniors, and helping people crack AWS certs
-- 🐔 Yes, the username is about a chicken. No, I will not explain further.
 
 <br/>
 
