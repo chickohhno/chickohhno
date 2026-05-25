@@ -10,7 +10,7 @@
 
 ---
 
-## 👾 About Me
+## <img src="https://raw.githubusercontent.com/chickohhno/chickohhno/main/logo.png" width="28" height="28"/> About Me
 
 <table>
 <tr>
