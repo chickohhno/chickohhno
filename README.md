@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=80&lines=KyawPhoneThu;chickohhno;KoKyat;Cloud+DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=80&lines=KyawPhoneThu;chickohhno;KoKyat;Cloud+DevOps+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2500&pause=800&color=AAAAAA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=30&lines=🐔+Cloud+DevOps+Engineer+%7C+🌏+Bangkok%2C+Thailand;☁️+AWS+%26+Kubernetes+%7C+CI%2FCD+%7C+GitOps+%7C+Infrastructure;🎓+MSc+Computer+Science+%40+Assumption+University%2C+Thailand;🐔+the+chicken+is+always+in+the+cluster)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=AAAAAA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=30&lines=🐔+Cloud+DevOps+Engineer+%7C+🌏+Bangkok%2C+Thailand;☁️+AWS+%26+Kubernetes+%7C+CI%2FCD+%7C+GitOps+%7C+Infrastructure;🎓+MSc+Computer+Science+%40+Assumption+University%2C+Thailand;🐔+the+chicken+is+always+in+the+cluster)](https://git.io/typing-svg)
 
 </div>
 
